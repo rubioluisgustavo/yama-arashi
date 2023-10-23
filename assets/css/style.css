@@ -393,12 +393,6 @@ h6 {
   }
 }
 
-@media (max-height: 640px) {
-  #hero {
-    /* height: 120vh; */
-  }
-}
-
 #hero .hero-text {
   padding-top: 44vh;
   position: absolute;
