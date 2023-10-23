@@ -536,7 +536,7 @@ section {
   width: 60px;
   height: 3px;
   background: #ff0000;
-  background: linear-gradient(0deg, #ff0000 0%, #55fabe 100%);
+  background: linear-gradient(0deg, #ff0000 0%, #ff0000 100%);
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -714,7 +714,7 @@ section {
 
 #features .icon i:before {
   background: #ff0000;
-  background: linear-gradient(45deg, #ff0000 0%, #55fabe 100%);
+  background: linear-gradient(45deg, #ff0000 0%, #ff0000 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -781,7 +781,7 @@ section {
 
 #advanced-features i:before {
   background: #ff0000;
-  background: linear-gradient(45deg, #ff0000 0%, #55fabe 100%);
+  background: linear-gradient(45deg, #ff0000 0%, #ff0000 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -892,7 +892,7 @@ section {
 
 #more-features .icon i:before {
   background: #ff0000;
-  background: linear-gradient(45deg, #ff0000 0%, #55fabe 100%);
+  background: linear-gradient(45deg, #ff0000 0%, #ff0000 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
