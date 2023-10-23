@@ -387,6 +387,14 @@ h6 {
   position: relative;
 }
 
+@media (max-width: 768px) {
+  #hero p {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+}
+
 @media (min-width: 1025px) {
   #hero {
     background-attachment: fixed;
@@ -432,7 +440,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero p {
-    font-size: 18px;
+    font-size: 11px !important;
     line-height: 24px;
     margin-bottom: 20px;
   }
