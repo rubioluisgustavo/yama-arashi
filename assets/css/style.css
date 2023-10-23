@@ -1343,10 +1343,10 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #fff;
+  background: #000000;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 30px 0;
-  color: #333;
+  color: #919191;
   font-size: 14px;
 }
 
