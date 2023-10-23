@@ -400,6 +400,7 @@ h6 {
 }
 
 #hero .hero-text {
+  padding-top: 44vh;
   position: absolute;
   left: 0;
   top: 60px;
